@@ -1,5 +1,6 @@
-##1. How to compile and run a scala program
+## 1. How to compile and run a Scala program
 
-''' bash
-scala run HelloWorld.scala
-'''
+To compile a Scala program, use the following command:
+
+```bash
+scalac HelloWorld.scala
